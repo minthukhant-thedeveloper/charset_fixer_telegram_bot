@@ -3,10 +3,10 @@ import os
 from pyrogram import Client, filters
 
 # Replace with your Telegram bot token
-BOT_TOKEN = "6756300061:AAE2ebDyTMtXI6p8xvmLI6Wqya1-6ZPLtK8"
+BOT_TOKEN = "get_token_from_bot_father"
 
-api_id = 7433927
-api_hash = "9a54fdf0026773141032074b018cb01e"
+api_id = your_telegram_app_id
+api_hash = "your_telegram_app_hash"
 
 app = Client("fmt_charset_bot", api_id=api_id, api_hash=api_hash)
 
